@@ -14,9 +14,9 @@ with hash passwords.
 
 [Express auth example](https://github.com/expressjs/express/tree/master/examples/auth)
 
-## How to use
+## How to run
 
-- open the terminal in the root folder
+- open the terminal in the project folder
 - npm install
 - npm run start
 - open localhost:3000 in the browser
