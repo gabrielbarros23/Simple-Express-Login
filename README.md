@@ -3,7 +3,7 @@
 just a small project made with express framework, a simple Login validation
 with hash passwords.
 
-## Techs
+## Stacks
 
 - Express
 - Express Session
@@ -23,4 +23,4 @@ with hash passwords.
 
 ## Demo
 
-https://github.com/user-attachments/assets/374155f7-1925-429f-81d5-3bb3ad99622d
+https://github.com/user-attachments/assets/58a9a667-fb6a-487e-a807-8df8af8195d9
